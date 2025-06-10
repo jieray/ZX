@@ -14,7 +14,7 @@ http://www.fish2018.ip-ddns.com/z/FongMi.json
 http://www3.fish2018.ip-ddns.com/z/FongMi.json
 ```
 ## TG影视资源频道
-[tgsearchers](https://t.me/s/tgsearchers) 实时更新最新影视资源(123、夸克、阿里云、天翼、UC、115、移动、磁力、百度、迅雷)，可用于tgsearch/tgsou搜索。
+[tgsearchers2](https://t.me/s/tgsearchers2) 实时更新最新影视资源(123、夸克、阿里云、天翼、UC、115、移动、磁力、百度、迅雷)，可用于tgsearch/tgsou搜索。
 
 ## tgsou服务器
 ```
